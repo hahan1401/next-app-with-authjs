@@ -10,10 +10,12 @@
   },
   "dependencies": {
     "@auth/supabase-adapter": "^1.1.0",
+    "@next/bundle-analyzer": "^14.2.3",
     "@supabase/supabase-js": "^2.43.4",
     "jsonwebtoken": "^9.0.2",
     "next": "14.2.3",
     "next-auth": "^5.0.0-beta.18",
+    "next-intl": "^3.14.1",
     "react": "^18",
     "react-dom": "^18"
   },

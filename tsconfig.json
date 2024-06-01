@@ -23,5 +23,5 @@
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"],
-  "files": ["src/types/next-auth.d.ts"]
+  "files": ["src/types/next-auth.d.ts", "src/types/i18n.d.ts"]
 }
